@@ -1,12 +1,5 @@
 <div class="container">
-    <nav class="navbar navbar-light bg-dark">
-        <div class="container-fluid">
-            <a class="navbar-brand text-white" href="#">
-                <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" alt="" width="30" height="24" class="d-inline-block align-text-top">
-            Bootstrap
-            </a>
-        </div>
-    </nav>
+   <?php require "./pages/header-home.php"; ?>
     <div class="conatiner-fluid my-3">
         <div class="row">
             <div class="col-8">
@@ -58,4 +51,5 @@
             </div>
         </div>
     </div>
+    <?php require "./pages/footer-home.php"; ?>
 </div>
