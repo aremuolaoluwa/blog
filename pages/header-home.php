@@ -6,7 +6,7 @@
             </a>
             <div class="d-flex">
                 <a href="#" class="nav-link text-white">Login</a>
-                <a href="#" class="nav-link text-white">Register</a>
+                <a href="register.php" class="nav-link text-white">Register</a>
             </div>
         </div>
     </nav>
